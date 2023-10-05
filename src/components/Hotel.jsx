@@ -19,7 +19,7 @@ const Hotel = () => {
 
     return (
         <div>
-            <div className="grid grid-cols-3 gap-10 mb-6">
+            <div className="grid grid-cols-3 gap-10 mb-6 px-10">
                 {hotels.slice(0, visibleHotels).map((hotel) => (
                     <HotelCard key={hotel.id} hotel={hotel}></HotelCard>
                 ))}
