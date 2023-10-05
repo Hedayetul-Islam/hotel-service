@@ -1,123 +1,122 @@
 [
-    {
-      "id": 1,
-      "name": "Luxury Resort & Spa",
-      "image": "https://img.freepik.com/free-photo/swimming-pool-beach-luxury-hotel-outdoor-pools-spa-amara-dolce-vita-luxury-hotel-resort-tekirova-kemer-turkey_146671-18751.jpg?w=1060&t=st=1696485266~exp=1696485866~hmac=d08e2435f06db2e6c14c39355a9d7ddf6235f8d15dd7d5c1f2fedd334c18b8aa",
-      "place": "Tropical Paradise",
-      "country": "United States",
-      "price": 300,
-      "category": "Luxury",
-      "forRentOrSale": "Sale"
-    },
-    {
-      "id": 2,
-      "name": "Seaside Boutique Hotel",
-      "image": "https://img.freepik.com/free-psd/luxury-beach-house-generative-ai_587448-2213.jpg?w=1060&t=st=1696488330~exp=1696488930~hmac=860e019bdd65016b52b0ca63bf59f7c80ca79b24d35f20c2f5a1a1ed06941bce",
-      "place": "Beachfront",
-      "country": "United States",
-      "price": 150,
-      "category": "Boutique",
-      "forRentOrSale": "Rent"
-    },
-    {
-      "id": 3,
-      "name": "Mountain View Lodge",
-      "image": "https://img.freepik.com/free-photo/cityscape-greensboro-cloudy-sky-carolina_181624-57893.jpg?w=1060&t=st=1696488824~exp=1696489424~hmac=ebc378ed55b4b4b2188d40eec572283f86461f3e69280a1f12ab4d63aedd8b83",
-      "place": "Scenic Mountains",
-      "country": "United States",
-      "price": 120,
-      "category": "Nature Retreat",
-      "forRentOrSale": "Sale"
-    },
-    {
-      "id": 4,
-      "name": "Urban Business Hotel",
-      "image": "https://img.freepik.com/free-photo/scenic-view-sandy-beach-beach-with-sun-beds-umbrellas-open-against-sea-mountains-hotel-resort-tekirova-kemer-turkey_146671-18876.jpg?w=1060&t=st=1696488433~exp=1696489033~hmac=3f635567dbcf9018d662575dca467fe5fa62e4074ba869dbd7630493b822088d",
-      "place": "City Center",
-      "country": "United States",
-      "price": 90,
-      "category": "Business",
-      "forRentOrSale": "Rent"
-    },
-    {
-        "id": 5,
-        "name": "Luxury Resort & Spa",
-        "image": "https://example.com/hotel1.jpg",
-        "place": "Tropical Paradise",
-        "country": "Hawaii",
-        "price": 300,
-        "category": "Luxury",
-        "forRentOrSale": "Sale"
-      },
-      {
-        "id": 6,
-        "name": "Seaside Boutique Hotel",
-        "image": "https://example.com/hotel2.jpg",
-        "place": "Beachfront",
-        "country": "Florida",
-        "price": 150,
-        "category": "Boutique",
-        "forRentOrSale": "Rent"
-      },
-      {
-        "id": 7,
-        "name": "Mountain View Lodge",
-        "image": "https://example.com/hotel3.jpg",
-        "place": "Scenic Mountains",
-        "country": "Colorado",
-        "price": 120,
-        "category": "Nature Retreat",
-        "forRentOrSale": "Sale"
-      },
-      {
-        "id": 8,
-        "name": "Urban Business Hotel",
-        "image": "https://example.com/hotel4.jpg",
-        "place": "City Center",
-        "country": "New York",
-        "price": 90,
-        "category": "Business",
-        "forRentOrSale": "Rent"
-      },
-      {
-        "id": 9,
-        "name": "Cozy Lakeside Retreat",
-        "image": "https://example.com/hotel5.jpg",
-        "place": "Lakefront",
-        "country": "Canada",
-        "price": 180,
-        "category": "Nature Retreat",
-        "forRentOrSale": "Sale"
-      },
-      {
-        "id": 10,
-        "name": "Historic Downtown Inn",
-        "image": "https://example.com/hotel6.jpg",
-        "place": "Historic District",
-        "country": "France",
-        "price": 200,
-        "category": "Boutique",
-        "forRentOrSale": "Rent"
-      },
-      {
-        "id": 11,
-        "name": "Desert Oasis Resort",
-        "image": "https://example.com/hotel7.jpg",
-        "place": "Desert Paradise",
-        "country": "United Arab Emirates",
-        "price": 250,
-        "category": "Luxury",
-        "forRentOrSale": "Sale"
-      },
-      {
-        "id": 12,
-        "name": "Ski Lodge Retreat",
-        "image": "https://example.com/hotel8.jpg",
-        "place": "Mountain Village",
-        "country": "Switzerland",
-        "price": 280,
-        "category": "Ski Resort",
-        "forRentOrSale": "Rent"
-      }
-  ]
-  
+  {
+    "id": 1,
+    "name": "Luxury Resort & Spa",
+    "image": "https://img.freepik.com/free-photo/swimming-pool-beach-luxury-hotel-outdoor-pools-spa-amara-dolce-vita-luxury-hotel-resort-tekirova-kemer-turkey_146671-18751.jpg?w=1060&t=st=1696485266~exp=1696485866~hmac=d08e2435f06db2e6c14c39355a9d7ddf6235f8d15dd7d5c1f2fedd334c18b8aa",
+    "place": "Tropical Paradise",
+    "country": "New York",
+    "price": 300,
+    "category": "Luxury",
+    "forRentOrSale": "Sale"
+  },
+  {
+    "id": 2,
+    "name": "Seaside Boutique Hotel",
+    "image": "https://img.freepik.com/free-psd/luxury-beach-house-generative-ai_587448-2213.jpg?w=1060&t=st=1696488330~exp=1696488930~hmac=860e019bdd65016b52b0ca63bf59f7c80ca79b24d35f20c2f5a1a1ed06941bce",
+    "place": "Beachfront",
+    "country": "Mumbai",
+    "price": 150,
+    "category": "Boutique",
+    "forRentOrSale": "Rent"
+  },
+  {
+    "id": 3,
+    "name": "Mountain View Lodge",
+    "image": "https://img.freepik.com/free-photo/cityscape-greensboro-cloudy-sky-carolina_181624-57893.jpg?w=1060&t=st=1696488824~exp=1696489424~hmac=ebc378ed55b4b4b2188d40eec572283f86461f3e69280a1f12ab4d63aedd8b83",
+    "place": "Scenic Mountains",
+    "country": "Paris",
+    "price": 120,
+    "category": "Nature Retreat",
+    "forRentOrSale": "Sale"
+  },
+  {
+    "id": 4,
+    "name": "Urban Business Hotel",
+    "image": "https://img.freepik.com/free-photo/comfortable-modern-bedroom-with-elegant-decoration-lighting-generative-ai_188544-7715.jpg?w=1060&t=st=1696510851~exp=1696511451~hmac=2bba06c7222d1b5d8126e71070a6597b220cd305b6937b95d39183b547f79998",
+    "place": "City Center",
+    "country": "New York",
+    "price": 90,
+    "category": "Business",
+    "forRentOrSale": "Rent"
+  },
+  {
+    "id": 5,
+    "name": "Luxury Resort & Spa",
+    "image": "https://images.pexels.com/photos/4025955/pexels-photo-4025955.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "place": "Tropical Paradise",
+    "country": "London",
+    "price": 300,
+    "category": "Luxury",
+    "forRentOrSale": "Sale"
+  },
+  {
+    "id": 6,
+    "name": "Seaside Boutique Hotel",
+    "image": "https://img.freepik.com/free-photo/futuristic-car-speeds-through-illuminated-city-skyline-night-generated-by-ai_24640-100576.jpg?t=st=1696511213~exp=1696514813~hmac=86e82bc073e84cf453e8d1aaef124c5d4c0ac6741f156218b51ab4dff962e4eb&w=1060",
+    "place": "Beachfront",
+    "country": "Florida",
+    "price": 150,
+    "category": "Boutique",
+    "forRentOrSale": "Rent"
+  },
+  {
+    "id": 7,
+    "name": "Mountain View Lodge",
+    "image": "https://img.freepik.com/free-photo/swimming-pool-beach-luxury-hotel-outdoor-pools-spa-amara-dolce-vita-luxury-hotel-resort-tekirova-kemer-turkey_146671-18751.jpg?w=1060&t=st=1696485266~exp=1696485866~hmac=d08e2435f06db2e6c14c39355a9d7ddf6235f8d15dd7d5c1f2fedd334c18b8aa",
+    "place": "Scenic Mountains",
+    "country": "Colorado",
+    "price": 120,
+    "category": "Nature Retreat",
+    "forRentOrSale": "Sale"
+  },
+  {
+    "id": 8,
+    "name": "Urban Business Hotel",
+    "image": "https://img.freepik.com/free-photo/futuristic-car-speeds-through-illuminated-city-skyline-night-generated-by-ai_24640-100576.jpg?t=st=1696511213~exp=1696514813~hmac=86e82bc073e84cf453e8d1aaef124c5d4c0ac6741f156218b51ab4dff962e4eb&w=1060",
+    "place": "City Center",
+    "country": "New York",
+    "price": 90,
+    "category": "Business",
+    "forRentOrSale": "Rent"
+  },
+  {
+    "id": 9,
+    "name": "Cozy Lakeside Retreat",
+    "image": "https://images.pexels.com/photos/4025955/pexels-photo-4025955.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "place": "Lakefront",
+    "country": "Canada",
+    "price": 180,
+    "category": "Nature Retreat",
+    "forRentOrSale": "Sale"
+  },
+  {
+    "id": 10,
+    "name": "Historic Downtown Inn",
+    "image": "https://img.freepik.com/free-photo/comfortable-modern-bedroom-with-elegant-decoration-lighting-generative-ai_188544-7715.jpg?w=1060&t=st=1696510851~exp=1696511451~hmac=2bba06c7222d1b5d8126e71070a6597b220cd305b6937b95d39183b547f79998",
+    "place": "Historic District",
+    "country": "France",
+    "price": 200,
+    "category": "Boutique",
+    "forRentOrSale": "Rent"
+  },
+  {
+    "id": 11,
+    "name": "Desert Oasis Resort",
+    "image": "https://img.freepik.com/free-psd/luxury-beach-house-generative-ai_587448-2213.jpg?w=1060&t=st=1696488330~exp=1696488930~hmac=860e019bdd65016b52b0ca63bf59f7c80ca79b24d35f20c2f5a1a1ed06941bce",
+    "place": "Desert Paradise",
+    "country": "United Arab Emirates",
+    "price": 250,
+    "category": "Luxury",
+    "forRentOrSale": "Sale"
+  },
+  {
+    "id": 12,
+    "name": "Ski Lodge Retreat",
+    "image": "https://img.freepik.com/free-photo/swimming-pool-beach-luxury-hotel-outdoor-pools-spa-amara-dolce-vita-luxury-hotel-resort-tekirova-kemer-turkey_146671-18751.jpg?w=1060&t=st=1696485266~exp=1696485866~hmac=d08e2435f06db2e6c14c39355a9d7ddf6235f8d15dd7d5c1f2fedd334c18b8aa",
+    "place": "Mountain Village",
+    "country": "Switzerland",
+    "price": 280,
+    "category": "Ski Resort",
+    "forRentOrSale": "Rent"
+  }
+]

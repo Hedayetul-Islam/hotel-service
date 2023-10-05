@@ -6,11 +6,24 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import Home from './Home/Home';
+import HotelDetails from './components/HotelDetails';
+import Main from './components/Main';
 
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <Home></Home>
+    element: <Main></Main>,
+    children: [
+      {
+        path: "/",
+        element: <Home></Home>
+      },
+      {
+        path: "details/:id",
+        element: <HotelDetails></HotelDetails>,
+        loader: ({params}) => fetch(`http://localhost:5173/details/${params.id}`)
+      }
+    ]
   },
 ]);
 
